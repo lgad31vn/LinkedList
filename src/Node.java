@@ -1,3 +1,7 @@
+package src;
+/* Nam (Logan) Nguyen
+    2021 @ SUNY Oswego */
+
 public class Node<T>{
     public T data;
     public Node<T> next;

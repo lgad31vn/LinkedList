@@ -1,3 +1,7 @@
+package src;
+/* Nam (Logan) Nguyen
+    2021 @ SUNY Oswego */
+
 public class LinkedListClient {
     public static void main(String[] args) {
         LinkedList<Integer> s = new LinkedList<>();
